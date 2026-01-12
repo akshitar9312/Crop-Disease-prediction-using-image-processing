@@ -1,1 +1,2 @@
 # Crop-Disease-prediction-using-image-processing
+This project uses image processing and Convolutional Neural Networks (CNN) to detect and classify crop diseases from leaf images. The system preprocesses images, extracts deep features using a CNN model, and accurately predicts the type of disease. Built using Python, OpenCV, and TensorFlow/Keras, the project demonstrates the effective use of deep learning in agriculture for early disease detection and improved crop management.
